@@ -1,4 +1,0 @@
-sort -d CAFK27findgene_result>c27genesort
-perl uniq_gene.pl
-perl geneid.pl
-
